@@ -1,6 +1,5 @@
 # yowno3.github.io
 
-
 <head>
 	<meta charset="utf-8" />
 	   <meta name="$$$"/>
